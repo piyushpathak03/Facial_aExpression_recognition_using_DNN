@@ -1,1 +1,1 @@
-# Facial_aExpression_recognition_using_DNN
+# Facial_Expression_recognition_using_DNN
